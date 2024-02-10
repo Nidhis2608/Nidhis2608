@@ -7,8 +7,8 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Fellow+%3C%2FDevelopers%3E;if(brain+!%3D+empty)+%7B++keepCoding()++%7D+;else+%7B++orderCoffee()++%7D)](https://git.io/typing-svg) -->
 </div>
 
-![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
-
+<!-- ![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif) -->
+<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc1OTE4NjAsIm5iZiI6MTcwNzU5MTU2MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjEwVDE4NTkyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiMmI1Yzg3ZTEwMDBmNmQ0ZTA2ODNlOTViNDRkNzdkNDc4MTcxODk5NWIyMjBmMjkwYzdlNzNhMzUwMWE2MGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Tcf8MOjVsBUVxFfBOeqR-9uG-Nbc5L7ePOSafpJB6vk" alt="...">
 <img src="https://static.wixstatic.com/media/191815_5d9d3ff1ad894e96a2f0a86681563555~mv2.gif" width="350px" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nidhis2608&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
