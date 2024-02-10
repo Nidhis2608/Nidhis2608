@@ -11,7 +11,7 @@
 
 <img src="https://static.wixstatic.com/media/191815_5d9d3ff1ad894e96a2f0a86681563555~mv2.gif" width="350px" align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alipakkr&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nidhis2608&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
 
 - 📫 How to reach me 20nidhi23@gmail.com
 
@@ -20,8 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nidhi-singh-2k02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alipa-55b365285" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aishu_23_11_?igsh=YjBvaWJiZHphYTFi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aishu1123" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nidhi-singh-2k02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidhi-55b365285" height="30" width="40" /></a>
 </p>
 
 
@@ -31,10 +30,10 @@
 <div>
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aishu1123&theme=github_dark">
-<img src= "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aishu1123&theme=dark">
-<img src= "https://github-readme-streak-stats.herokuapp.com/?user=Aishu1123&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api?username=Aishu1123&show_icons=true&theme=dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aishu1123&theme=github_dark&utcOffset=8">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nidhis2608&theme=github_dark">
+<img src= "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nidhis2608&theme=dark">
+<img src= "https://github-readme-streak-stats.herokuapp.com/?user=Nidhis2608&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=Nidhis2608&show_icons=true&theme=dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nidhis2608&theme=github_dark&utcOffset=8">
 </p>
 </div>
