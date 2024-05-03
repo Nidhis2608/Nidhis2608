@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **Data Structures** and **MERN Stack**.
 - 💬 Ask me about anything, I am happy to help;
 - 👨‍💻 All of my projects are available at [Portfolio](https://nidhis2608.github.io/)
-- 📄 Know about my experiences [Resume]()
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QmxYK0UidKdQhUMUphlq6cUVif7PSjmW/view?usp=sharing)
 
 
 - ⚡ Fun fact "Did you know that the first computer bug was a real insect? In 1947, Grace Hopper and her team found a moth stuck in a relay of the Harvard Mark II computer, causing it to malfunction. They taped the moth into their logbook and coined the term 'debugging'! 🐛💻 #CodingHistory"
