@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.linkedin.com/in/aishwarya-lohakare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alipa-55b365285" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/nidhi-singh-2k02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alipa-55b365285" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ni.dhi2608/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aishu1123" height="30" width="40" /></a>
 </p>
 
