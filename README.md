@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nidhi</h1>
 
-<h3 align="center">Full Stack Web Developer</h3>
+<h2 align="center">Full Stack Web Developer</h3>
 
-<div align="center">
+<!-- <div align="center">
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=blue &width=470&lines=Hello+Fellow+%3C%2FDevelopers%3E;if(brain!%3Dempty)+keepCoding()+;else++orderCoffee()+" alt="" /></a>
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Fellow+%3C%2FDevelopers%3E;if(brain+!%3D+empty)+%7B++keepCoding()++%7D+;else+%7B++orderCoffee()++%7D)](https://git.io/typing-svg) -->
-</div>
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Fellow+%3C%2FDevelopers%3E;if(brain+!%3D+empty)+%7B++keepCoding()++%7D+;else+%7B++orderCoffee()++%7D)](https://git.io/typing-svg) 
+</div> -->
 
 <!-- ![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif) -->
 <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc1OTE4NjAsIm5iZiI6MTcwNzU5MTU2MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjEwVDE4NTkyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiMmI1Yzg3ZTEwMDBmNmQ0ZTA2ODNlOTViNDRkNzdkNDc4MTcxODk5NWIyMjBmMjkwYzdlNzNhMzUwMWE2MGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Tcf8MOjVsBUVxFfBOeqR-9uG-Nbc5L7ePOSafpJB6vk" alt="...">
